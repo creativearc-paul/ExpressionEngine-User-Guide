@@ -13,7 +13,7 @@
 
 ## Overview
 
-    {exp:member:member_search}
+    {exp:member:member_search_form}
         {form_declaration}
             <input type="text" name="search_keywords_1" />
             <select name='search_field_1' class='select' >
@@ -29,7 +29,7 @@
 
             <div class="itempadbig">&nbsp; <input type='submit' value='search' class='submit' /></div>
         </form>
-    {/exp:member:member_search}
+    {/exp:member:member_search_form}
 
 ## Parameters
 
